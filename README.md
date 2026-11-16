@@ -1,6 +1,6 @@
 # Antennas & Propagation
 
-This repository contains the assignments for the **Antennas & Propagation** course at the ECE AUTH during the 2024–2025 academic year.
+This repository contains the assignments for the **Antennas & Propagation** course at ECE AUTH during the 2024–2025 academic year.
 
 ## 📋 Contents
 
